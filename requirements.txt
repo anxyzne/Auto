@@ -5,3 +5,5 @@ statsmodels
 yfinance
 numpy
 pmdarima
+Cython
+scikit-learn
